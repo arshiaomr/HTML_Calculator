@@ -1,0 +1,7 @@
+calculator.html:This file contain basic structure of mathmatics and buttons for the website
+mathmatical functions are processed here
+style.css: Styling of calculator.html by differentiating them by sizes and arithmatics
+script.js: Contains universal function for the website backend to monitor, calculate,
+display on screen.
+
+Note:The site is desktop-only.
